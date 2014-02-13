@@ -1,0 +1,30 @@
+<snippet>
+  <content><![CDATA[
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link href='images/ico/apple-touch-icon-144-precomposed.png' rel='apple-touch-icon-precomposed' sizes='144x144'>
+        <link href='images/ico/apple-touch-icon-114-precomposed.png' rel='apple-touch-icon-precomposed' sizes='114x114'>
+        <link href='images/ico/apple-touch-icon-72-precomposed.png' rel='apple-touch-icon-precomposed' sizes='72x72'>
+        <link href='images/ico/apple-touch-icon-57-precomposed.png' rel='apple-touch-icon-precomposed'>
+        <link href='images/ico/apple-touch-icon-57-precomposed.png' rel='shortcut icon'>
+        <title>${1:site title}</title>
+        <meta name="description" content="">
+        <meta content='width=device-width, initial-scale=1.0, minimum-scale=0.5 maximum-scale=1.0' name='viewport'>
+        <link rel="stylesheet" href="stylesheets/application.css">
+        <script src="http://modernizr.com/downloads/modernizr-latest.js"></script>
+    </head>
+    <body>
+        <p>Hello world! This is HTML5 Boilerplate.</p>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="javascripts/app.js"></script>
+
+    </body>
+</html>
+]]></content>
+  <tabTrigger>boilerplate</tabTrigger>
+</snippet>

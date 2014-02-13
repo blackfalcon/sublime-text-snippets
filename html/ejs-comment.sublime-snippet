@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+<%/* ${1:place comment here} */%>
+]]></content>
+  <tabTrigger>ejscomm</tabTrigger>
+</snippet>
